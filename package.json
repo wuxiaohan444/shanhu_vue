@@ -8,8 +8,16 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
+    "axios": "^0.19.0",
     "core-js": "^2.6.5",
-    "vue": "^2.6.10"
+    "echarts": "^4.2.1",
+    "js-md5": "^0.7.3",
+    "less": "^2.7.3",
+    "less-loader": "^5.0.0",
+    "postcss-pxtorem": "^4.0.1",
+    "vue": "^2.6.10",
+    "vue-mobile-calendar": "^3.3.0",
+    "vue-router": "^3.0.7"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.0",
